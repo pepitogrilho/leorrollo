@@ -1,2 +1,2 @@
 # leorrollo
-sobre el desaRROLLO de LEO
+sobre el desaRROLLO de LEO ...
