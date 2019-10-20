@@ -1,0 +1,69 @@
+
+html {
+/*
+background: #f06;
+background: linear-gradient(45deg, #ff4500, yellow);
+min-height: 100%;
+*/
+}
+
+h1, h2, h3, h4 {
+	margin: 0 0 0 0;
+	margin-block-start: 0.1em;
+	margin-block-end: 0;
+}
+
+h1 h2 h3 h4 * {
+    text-decoration: none;
+}
+
+
+h1, h2, h3 {
+	font-size: 1em;
+}
+
+h1 span, h2 span, h3 span {
+	font-weight: normal;	
+}
+
+em {
+	font-weight: bold;
+}
+
+.leoRROLLO {
+	margin: 0 0 0 0;
+	border: 0 0 0 0;
+	padding: 0 0 0 0;
+	background-color: #9b9b8c;
+}
+
+.LoMejor {
+	margin: 0 0 0 0;
+	border: 0 0 0 0;
+	padding: 0 0 0 0;
+	background-color: #cc99ff;
+}
+
+.LoMejor * {
+	color: #4A235A; /*text-color: ;*/
+}
+
+.SinRabietas {
+	background-color: #ff4c79;
+}
+
+.SinRabietas * {
+	color: #78281F; /*text-color: ;*/
+}
+
+.epigraph1 {
+	background-color: #ffff73;
+}
+
+p {
+	margin: 0 0 0 0;
+}
+
+ul {
+	margin: 0 0 0 0;
+}
