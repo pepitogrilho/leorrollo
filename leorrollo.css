@@ -56,15 +56,22 @@ em {
 	color: #78281F; /*text-color: ;*/
 }
 
-.epigraphOdd {
+.epigraph01 {
     float: left;
 	background-color: #ff8000;
 }
 
-.epigraphEven {
+.epigraph02 {
     float: left;
 	background-color: #ffff26;
 }
+
+.epigraph03 {
+    float: left;
+	background-color: #03cafc;
+}
+
+
 
 p {
 	margin: 0 0 0 0;
